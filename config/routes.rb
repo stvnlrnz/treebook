@@ -1,4 +1,10 @@
 Treebook::Application.routes.draw do
+<<<<<<< HEAD
+=======
+  resources :statuses
+
+
+>>>>>>> 2cd46cc64bfb4253fb6ccd5cfec85d6034485795
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
